@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: aliceblue;
+}
+
+h1{
+  text-align: center;
+  color: brown;
+  font-style: italic;
+  margin: 15px 0;
+  font-size: 40px;
+}
+
+img{
+  margin: 35px 20px;
+}
+
+ol{
+  margin: 10px 70px;
+}
+
+ol li {
+  padding-left: 10px;
+  line-height: 22px;
+}
+
+li{
+  font-size: 18px;
+}
+
+li a{
+
+  text-decoration: none;
+  font-size: 18px;
+  color: rgb(75, 75, 75);
+}
+
+li a:hover{
+  color: rgb(206, 79, 33);
+}
+
+span{
+  font-style: italic;
+}
+
+.book-list{
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+
+.book{
+  padding: 50px;
+}
+
+p{
+  padding: 30px;
+  font-size: 23px;
+  line-height: 27px;
+}
+
+.del{
+  color: rgb(99, 99, 99);
+  font-size: 25px;
+  font-style: italic;
+}
+
+.bx{
+  font-size: 20px;
+}
